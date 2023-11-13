@@ -10,9 +10,10 @@ import (
 	"runtime/pprof"
 	"syscall"
 	"time"
-	vnc "github.com/amitbet/vnc2video"
-	"github.com/amitbet/vnc2video/encoders"
-	"github.com/amitbet/vnc2video/logger"
+
+	vnc "github.com/daresheep/vnc2video"
+	"github.com/daresheep/vnc2video/encoders"
+	"github.com/daresheep/vnc2video/logger"
 )
 
 func main() {

@@ -5,9 +5,10 @@ import (
 	"encoding/binary"
 	"io"
 	"os"
+
 	//"vncproxy/common"
 	//"vncproxy/encodings"
-	"github.com/amitbet/vnc2video/logger"
+	"github.com/daresheep/vnc2video/logger"
 	//"vncproxy/encodings"
 	//"vncproxy/encodings"
 )
